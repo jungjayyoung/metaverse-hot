@@ -4,7 +4,7 @@
 ### 프로젝트 : Unity 3D
 
 ## 배포 및 튜토리얼 페이지 : 
-https://flame-oval-517.notion.site/Heros-Of-Trashbin-MetaDefense-10decda94fef4c2299874d9132cb6176
+[배포 페이지로 이동](https://flame-oval-517.notion.site/Heros-Of-Trashbin-MetaDefense-10decda94fef4c2299874d9132cb6176)
 
 
 
